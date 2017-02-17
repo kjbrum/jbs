@@ -3,11 +3,7 @@
 > Search popular job boards using Google's Custom Search API.
 
 
-### Install
-
-```
-$ npm install -g jbs
-```
+### How-to
 
 ```
 $ jbs --help
