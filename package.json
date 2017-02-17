@@ -1,0 +1,35 @@
+{
+  "name": "jbs-cli",
+  "version": "0.0.1",
+  "description": "Search popular job boards using Google's Custom Search API.",
+  "license": "MIT",
+  "repository": "kjbrum/jbs",
+  "bin": {
+    "jbs": "cli.js"
+  },
+  "preferGlobal": true,
+  "author": {
+    "name": "Kyle Brumm",
+    "email": "kjbrumm@gmail.com",
+    "url": "http://kylebrumm.com"
+  },
+  "files": [
+    "cli.js",
+    "index.js"
+  ],
+  "keywords": [
+    "jobs",
+    "creative",
+    "developer",
+    "designer",
+    "cli",
+    "bin",
+    "web"
+  ],
+  "dependencies": {
+    "chalk": "latest",
+    "got": "latest",
+    "lodash": "latest",
+    "meow": "latest"
+  }
+}
